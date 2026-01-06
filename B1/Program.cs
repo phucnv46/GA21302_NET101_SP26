@@ -19,6 +19,8 @@
             char kyTu = 'A'; // ký tự
             string chuoi = "Xin chào các bạn"; // chuỗi ký tự
 
+            bool bieuThucLogic = true; // biểu thức logic (true/false)
+
             // Toán tử tính toán : + - * / %
             //Toán tử so sánh : == != > < >= <=
 
@@ -33,6 +35,16 @@
             int.TryParse(Console.ReadLine(), out chieuDai);
             Console.WriteLine($"Vay chu vi cua hcn la {(chieuDai+chieurong)*2}");
             Console.WriteLine($"Vay dien tich cua hcn la {(chieuDai*chieurong)}");
+
+            
+
+            // Kiểu dữ liệu
+            // Nguyên thủy: int, uint, long, short, float, double, char, string, bool
+            // Tham chiếu: class, interface, array, delegate (sẽ học)
+            //Toán tử
+            // Toán tử tính toán: + - * / %
+            // Toán tử so sánh: == != > < >= <=
+
         }
     }
 }
