@@ -22,6 +22,28 @@ namespace B2_NhapXuat
             Console.WriteLine("Hiệu của 2 số là: {0}", soThuNhat -soThuHai);
 
             Console.WriteLine("Căn bậc 2 của số {0} la {1}",soThuNhat,Math.Sqrt(soThuNhat));
+
+            //Chuyển từ số sang chuỗi
+            // string chuoiSoThuNhat = soThuNhat.ToString();
+            // string chuoiSoThuHai = Convert.ToString(soThuHai);
+            // string chuoiSoThuNhat = soThuNhat+"";
+
+            // Tính diện tích hình tròn
+            // Diện tích = π * r * r
+            // Tính diện tích bao quanh của hình lăng trụ
+
+            Console.WriteLine("Xin mời nhập bán kính: ");
+            float banKinh;
+            float.TryParse(Console.ReadLine(), out banKinh);
+            Console.WriteLine($"Dien tích cua hinh tron co ban kinh {banKinh} la {Math.PI * Math.Pow(banKinh,2)}");
+
+            Console.WriteLine("Vui lòng nhập chiều cao của hình trụ");
+            float chieuCao;
+            float.TryParse(Console.ReadLine(), out chieuCao);
+
+            Console.WriteLine($"Vay dien tich xung quang cua hinh tru ban kinh {banKinh} la {2*Math.PI*banKinh*chieuCao}");
+
+
         }
     }
 }
