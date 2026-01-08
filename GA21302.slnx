@@ -2,4 +2,5 @@
   <Project Path="B1/B1.csproj" />
   <Project Path="B25_DieuKien/B25_DieuKien.csproj" Id="fa0c7fa0-aef6-404f-9896-23000475dc86" />
   <Project Path="B2_NhapXuat/B2_NhapXuat.csproj" Id="6b77e8c7-a14c-4ce3-972d-9f926d889a03" />
+  <Project Path="TT_HuongDanMenu/TT_HuongDanMenu.csproj" Id="2761de0a-9176-4d14-8110-b921adcb8422" />
 </Solution>
