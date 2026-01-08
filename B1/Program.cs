@@ -28,15 +28,15 @@
             int chieuDai = 0, chieurong = 0;
 
             Console.Write("Xin mời nhập chiều dài: ");
-           // chieuDai = int.Parse(Console.ReadLine());
-              int.TryParse(Console.ReadLine(), out chieuDai);
+            // chieuDai = int.Parse(Console.ReadLine());
+            int.TryParse(Console.ReadLine(), out chieuDai);
             Console.Write("Xin mời nhập chiều rộng: ");
             //chieurong = int.Parse(Console.ReadLine());
             int.TryParse(Console.ReadLine(), out chieuDai);
-            Console.WriteLine($"Vay chu vi cua hcn la {(chieuDai+chieurong)*2}");
-            Console.WriteLine($"Vay dien tich cua hcn la {(chieuDai*chieurong)}");
+            Console.WriteLine($"Vay chu vi cua hcn la {(chieuDai + chieurong) * 2}");
+            Console.WriteLine($"Vay dien tich cua hcn la {(chieuDai * chieurong)}");
 
-            
+
 
             // Kiểu dữ liệu
             // Nguyên thủy: int, uint, long, short, float, double, char, string, bool
