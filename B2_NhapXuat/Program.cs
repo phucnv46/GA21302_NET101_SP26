@@ -6,6 +6,7 @@ namespace B2_NhapXuat
     {
         static void Main(string[] args)
         {
+            Program program = new Program(); // khởi tạo đối tượng từ lớp Program
             // khai báo biến: kiểu dữ liệu + tên biến + toán tử gán (=) + giá trị
 
             Console.OutputEncoding = System.Text.Encoding.UTF8; // In ra tiếng việt
@@ -45,5 +46,7 @@ namespace B2_NhapXuat
 
 
         }
+
+        
     }
 }
