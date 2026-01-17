@@ -4,5 +4,6 @@
   <Project Path="B2_NhapXuat/B2_NhapXuat.csproj" Id="6b77e8c7-a14c-4ce3-972d-9f926d889a03" />
   <Project Path="B3_5_LuyenTapTapHop/B3_5_LuyenTapTapHop.csproj" Id="b4014dc9-ff5b-4f27-ab1c-8a2ac4a12698" />
   <Project Path="B3_VongLap_CacLoaiTapHop/B3_VongLap_CacLoaiTapHop.csproj" Id="7b42b38a-40aa-4d17-bd2c-aaece310afc9" />
+  <Project Path="OOP1_Class_Objects/OOP1_Class_Objects.csproj" Id="4638b01b-06c6-4c2f-8edb-96ce25cf9b24" />
   <Project Path="TT_HuongDanMenu/TT_HuongDanMenu.csproj" Id="2761de0a-9176-4d14-8110-b921adcb8422" />
 </Solution>
