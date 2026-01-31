@@ -8,6 +8,7 @@
   <Project Path="LT2/LT2.csproj" Id="3386b70c-029f-408a-baab-fec58324a7bf" />
   <Project Path="LT3/LT3.csproj" Id="0f44ce09-99fc-4cb3-b9de-ddf5307e65dc" />
   <Project Path="LT4/LT4.csproj" Id="54c6aa6e-1598-4929-9f4b-e4798115d8a8" />
+  <Project Path="NC_Generic/NC_Generic.csproj" Id="96c08246-0bce-4588-af52-19547637361d" />
   <Project Path="NC_LinQ/NC_LinQ.csproj" Id="2a8e4fd2-c47d-4bae-8d8d-ddbcab71e8c3" />
   <Project Path="NC_Validate_XLString/NC_Validate_XLString.csproj" Id="e9cc5a57-cbab-4769-80f3-ee4a646b252a" />
   <Project Path="OOP1_Class_Objects/OOP1_Class_Objects.csproj" Id="4638b01b-06c6-4c2f-8edb-96ce25cf9b24" />
