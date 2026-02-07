@@ -4,6 +4,7 @@
   <Project Path="B2_NhapXuat/B2_NhapXuat.csproj" Id="6b77e8c7-a14c-4ce3-972d-9f926d889a03" />
   <Project Path="B3_5_LuyenTapTapHop/B3_5_LuyenTapTapHop.csproj" Id="b4014dc9-ff5b-4f27-ab1c-8a2ac4a12698" />
   <Project Path="B3_VongLap_CacLoaiTapHop/B3_VongLap_CacLoaiTapHop.csproj" Id="7b42b38a-40aa-4d17-bd2c-aaece310afc9" />
+  <Project Path="Chua_GD2/Chua_GD2.csproj" Id="1bfe1dcd-b6cf-4f23-81cf-757343f07045" />
   <Project Path="LT1/LT1.csproj" Id="6b8cc45e-718f-494a-9936-a42dfa751c73" />
   <Project Path="LT2/LT2.csproj" Id="3386b70c-029f-408a-baab-fec58324a7bf" />
   <Project Path="LT3/LT3.csproj" Id="0f44ce09-99fc-4cb3-b9de-ddf5307e65dc" />
